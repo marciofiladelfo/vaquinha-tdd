@@ -1,6 +1,6 @@
-# DesignPatternSamples_DIO
+# TDD Crowdfunding - DIO
 
-## Projeto desenvolvido com mentoria de Eliézer Zarpelão!
+## Projeto desenvolvido com mentoria de Eliézer Zarpelão e Marcos Freira
 
 
 ### Ferramentas
